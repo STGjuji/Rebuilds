@@ -1,0 +1,7 @@
+{
+  "name": "TWitchRebuild",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
